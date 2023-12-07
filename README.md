@@ -39,5 +39,5 @@ pip install -r requirements.txt
 
 ### Results
 1. Hybrid recommendation for both Book and Movie
-![Screen Shot 2020-06-06 at 9 36 16 PM]([https://user-images.githubusercontent.com/15246084/83949017-fdefa080-a83e-11ea-9b21-9c278a8dea45.png](https://github.com/Otto-Octavius/EE541-CineLit/blob/main/results/Screenshot%202023-12-07%20074925.png))
+![Screen Shot 2020-06-06 at 9 36 16 PM]((https://github.com/Otto-Octavius/EE541-CineLit/blob/main/results/Screenshot%202023-12-07%20074925.png))
 
