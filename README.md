@@ -24,6 +24,14 @@ astroid
 ```
 These libraries are essential for building a recommendation system. TensorFlow provides a powerful framework for machine learning, and TensorFlow Recommenders simplifies building recommendation models. Pandas, NumPy, and scikit-learn enable efficient data manipulation and analysis. Seaborn and Matplotlib facilitate data visualization. Wordcloud aids in textual data exploration, while string and regular expression handling (re) are crucial for text processing in recommendation systems.
 
+## How to run the project?
+
+1. Install all the libraries mentioned in the [requirements.txt](https://https://github.com/Otto-Octavius/EE541-CineLit/blob/main/requirements.txt) file.
+2. Clone this repository in your local system.
+3. Pass a title from the movie dataset to `hybrid.py` file. Two functions take for movie and then book recommendation.
+4. Perform the same for `deep.py` file, but pass the UserID and Movie name. Two functions are present to predict the rating of the user on a unseen content and recommended movies
+5. Book recommendation is done via content based filtering as the available data consists of only primarily textual data.
+
 ### To install dependencies
 ```
 pip install -r requirements.txt
