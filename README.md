@@ -43,3 +43,19 @@ pip install -r requirements.txt
 2. Deep learning recommendation for a given User and their predicted rating for a particular content
 ![Screen Shot 2020-06-06 at 9 36 16 PM](https://github.com/Otto-Octavius/EE541-CineLit/blob/main/results/Screenshot%202023-12-07%20080655.png)
 
+### References
+[1]. Pitiwat Arunruviwat, Veera Muangsin, “A Hybrid Book Recommendation System for University Library” 2022 26th International Computer Science and Engineering Conference (ICSEC) | IEEE | DOI: 10.1109/ICSEC56337.2022.10049318.
+
+[2]. Sakina Salmani, Sarvesh Kulkarni, “Hybrid Movie Recommendation System Using Machine Learning”, 2021 International Conference on Communication Information and Computing Technology (ICCICT) | IEEE | DOI: 10.1109/ICCICT50803.2021.9510058
+
+[3]. Yassine Afoudi, Mohamed Lazaar, Mohammed Al Achhab, “Hybrid recommendation system combined content-based filtering and collaborative prediction using artificial neural network,” Elsevier, Simulation Modelling Practice and Theory, Volume 113, December 2021, doi: 10.1016/102375.
+
+[4]. N. Ifada, T. F. Rahman and M. K. Sophan, ”Comparing Collaborative Filtering and Hybrid based Approaches for Movie Recommendation,” 2020 6th Information Technology International Seminar (ITIS), 2020, pp. 219-223, doi: 10.1109/ITIS50118.2020.9321014.
+
+[5]. Y. Xiong and H. Li, ”Collaborative Filtering Algorithm in Pictures Recommendation Based on SVD,” 2018 International Conference on Robots and Intelligent System (ICRIS), 2018, pp. 262-265, doi: 10.1109/ICRIS.2018.00074.
+
+[6].  S. Agrawal and P. Jain, ”An improved approach for movie recommendation system,” 2017 International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC), 2017, pp. 336-342, doi: 10.1109/ISMAC. 2017.8058367.
+
+[7].  Blog Post, “https://medium.com/analytics-vidhya/building-a-movie-recommendation-engine-in-python-53fb47547ace"
+
+
