@@ -36,6 +36,8 @@ These libraries are essential for building a recommendation system. TensorFlow p
 ```
 pip install -r requirements.txt
 ```
+### Workflow - Collaborative Movie-Book Cross Recommendation
+![Screen Shot 2020-06-06 at 9 36 16 PM](https://github.com/Otto-Octavius/EE541-CineLit/blob/main/results/Screenshot%202023-12-07%20112500.png)
 
 ### Results
 1. Hybrid recommendation for both Book and Movie
