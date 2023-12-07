@@ -1,0 +1,15 @@
+tensorflow
+tensorflow_recommenders
+
+pandas
+numpy
+scikit-learn
+
+seaborn
+matplotlib
+
+wordcloud
+
+stringcase
+re
+astroid
